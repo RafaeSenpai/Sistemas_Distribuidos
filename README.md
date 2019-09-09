@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/EEUMLOGO.png" alt="Sistemas Distribuidos - Rafael Alves" align="right"/>
 
-<h1>Sistemas Distribuídos</h1><br>
+<h1>Sistemas Distribuídos</h1><br><br><br>
 <h2>Objectivos de aprendizagem:</h2><br>
 a) Conhecer as características, virtudes, limitações e aplicabilidade do modelo de memória partilhada; <br>
 b) Conhecer e saber analisar os vários problemas decorrentes da programação com processos concorrentes;<br>
