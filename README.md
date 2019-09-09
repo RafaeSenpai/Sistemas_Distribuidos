@@ -1,8 +1,8 @@
-Sistemas Distribuídos
-Objectivos de aprendizagem
-a) Conhecer as características, virtudes, limitações e aplicabilidade do modelo de memória partilhada; 
-b) Conhecer e saber analisar os vários problemas decorrentes da programação com processos concorrentes;
-c) Conhecer e saber aplicar vários tipos de primitivas de controlo de concorrência em sistemas de memória partilhada; 
+Sistemas Distribuídos<br>
+Objectivos de aprendizagem<br>
+a) Conhecer as características, virtudes, limitações e aplicabilidade do modelo de memória partilhada; <br>
+b) Conhecer e saber analisar os vários problemas decorrentes da programação com processos concorrentes;<br>
+c) Conhecer e saber aplicar vários tipos de primitivas de controlo de concorrência em sistemas de memória partilhada; <br>
 d) Conhecer as características, virtudes, limitações e aplicabilidade dos modelos e arquitecturas de sistemas distribuídos; 
 f) saber resolver problemas clássicos de coordenação em sistemas distribuídos.
 
