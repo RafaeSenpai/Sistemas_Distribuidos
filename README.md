@@ -13,5 +13,3 @@ f) saber resolver problemas clássicos de coordenação em sistemas distribuído
 - Concorrência em memória partilhada;<br>
 - Passagem de mensagens e sistemas distribuídos;<br>
 - Algoritmos distribuídos;<br>
-
-cenas
