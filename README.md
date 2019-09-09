@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/EEUMLOGO.png" alt="Sistemas Distribuidos - Rafael Alves" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/EEUMLOGO.png" alt="Sistemas Distribuidos - Rafael Alves" style="align-item: center"/>
 
 <h1>Sistemas Distribuídos</h1><br>
 <h2>Objectivos de aprendizagem:</h2><br>
