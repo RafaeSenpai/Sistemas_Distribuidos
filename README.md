@@ -14,3 +14,4 @@ f) saber resolver problemas clássicos de coordenação em sistemas distribuído
 - Passagem de mensagens e sistemas distribuídos;<br>
 - Algoritmos distribuídos;<br>
 
+cenas
