@@ -1,3 +1,3 @@
-<img src="../READMEs_sorces/Multithreading-Java.png" alt="Sistemas Distribuidos - Rafael Alves" align="right" />
+<img src="../READMEs_sorces/Multithreading-Java.png" alt="Sistemas Distribuidos - Rafael Alves" align="center" />
 
-<h1>Multi-threading -> Part 1 - Starting Threads</h1>
+<h1 align="center">Multi-threading -> Part 1 - Starting Threads</h1>
