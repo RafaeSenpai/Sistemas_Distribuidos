@@ -1,4 +1,4 @@
-class Runner extends Thread {
+class Runner1 extends Thread {
 
     @Override
     public void run() {
@@ -20,10 +20,10 @@ public class App1 {
      * apresentar mesmos valores
      */
     public static void main(String[] args) {
-        Runner runner1 = new Runner(); /* <-- declarar uma instancia de Runner */
+        Runner1 runner1 = new Runner1(); /* <-- declarar uma instancia de Runner */
         runner1.start(); /** <-- Para correr a instancia acima criada */
 
-        Runner runner2 = new Runner();
+        Runner1 runner2 = new Runner1();
         runner2.start();
 
     }
