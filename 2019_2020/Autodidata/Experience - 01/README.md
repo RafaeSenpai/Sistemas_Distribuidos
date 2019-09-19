@@ -9,6 +9,9 @@
        
 <p><strong>App2</strong> - Exemplo em que ambos os loops estão a correr ao mesmo tempo em threads diferentes, mas apresentando valores repetidos.
        Obs: uso de threads mas sem tratamento das mesmas;</p>
+
+<p><strong>App3</strong> - Nova forma de correr uma thread com uma class anonima
+       Obs: uso de threads mas sem tratamento das mesmas;</p>
        
 
 
