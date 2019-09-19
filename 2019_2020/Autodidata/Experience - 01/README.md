@@ -2,4 +2,4 @@
 
 
 
-<h1 stylte="align=center">Multi-threading Part 1 - Starting Threads</h1>
+<h1 stylte="text-align: center">Multi-threading Part 1 - Starting Threads</h1>
