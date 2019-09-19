@@ -1,9 +1,4 @@
-.h1 {
+.autodidata_titulos h1 {
     text-align: center;
-    color: brown;
-}
-
-h1 {
-    text-align: center;
-    color: blueviolet;
+    color: #2E64FE
 }

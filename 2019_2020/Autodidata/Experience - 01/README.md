@@ -7,4 +7,6 @@
 <!-- A aplicação do alinhamento do titulo não é compativel com HTML5, o correto é usar o respetivo css -->
 <br>
 
-<h1>Multi-threading -> Part 1 - Starting Threads</h1>
+<div class="autodidata_titulos">
+    <h1>Multi-threading -> Part 1 - Starting Threads</h1>
+</div>
