@@ -14,10 +14,14 @@ class Runner extends Thread {
     }
 }
 
-public class App {
+public class App1 {
+    /**
+     * Ambos os loops (run) estão a correr ao mesmo tempo, estando cada thread a
+     * apresentar mesmos valores
+     */
     public static void main(String[] args) {
-        Runner runner1 = new Runner(); /* declarar uma instancia de Runner */
-        runner1.start(); /** Para correr a instancia acima criada */
+        Runner runner1 = new Runner(); /* <-- declarar uma instancia de Runner */
+        runner1.start(); /** <-- Para correr a instancia acima criada */
 
         Runner runner2 = new Runner();
         runner2.start();

@@ -2,7 +2,10 @@
 
 <h1 align="center">Multi-threading -> Part 1 - Starting Threads</h1>
 <br>
-Iniciando threads em java
+<h2>Iniciando threads em java</h2>
 
-1º Criar um Projeto novo
+<p><strong>App1</strong> - Exemplo em que ambos os loops estão a correr ao mesmo tempo em threads diferentes, mas apresentando valores repetidos.
+       Obs: uso de threads mas sem tratamento das mesmas;</p>
+
+
 
