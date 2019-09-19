@@ -6,6 +6,9 @@
 
 <p><strong>App1</strong> - Exemplo em que ambos os loops estão a correr ao mesmo tempo em threads diferentes, mas apresentando valores repetidos.
        Obs: uso de threads mas sem tratamento das mesmas;</p>
-
+       
+<p><strong>App2</strong> - Exemplo em que ambos os loops estão a correr ao mesmo tempo em threads diferentes, mas apresentando valores repetidos.
+       Obs: uso de threads mas sem tratamento das mesmas;</p>
+       
 
 
