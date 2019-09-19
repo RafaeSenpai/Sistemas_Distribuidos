@@ -1,6 +1,6 @@
 <img src="../READMEs_sorces/Multithreading-Java.png" alt="Sistemas Distribuidos - Rafael Alves" align="center" />
 
-<h1 align="center">Multi-threading -> Part 1 - Starting Threads</h1>
+<h1 align="center">Part 1 <br>Starting Threads</h1>
 <br>
 <h2>Iniciando threads em java</h2>
 
