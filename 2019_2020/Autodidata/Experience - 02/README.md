@@ -15,11 +15,11 @@ Desta forma temos a garantia de que a variavel que está em constante verificaç
 <p>- Definir uma variavel como <em>volatile<em> salvaguarda o caso das threads fazerem chashing de variaveis, o que acontece naturalmente quando as variaveis apenas são alteradas sempre pela mesma thread.<br></p>
 
 
-- Se quisermos alterar uma variavel noutra thread teremos que usar <em>volatile</em><br></p>
+<p>- Se quisermos alterar uma variavel noutra thread teremos que usar <em>volatile</em><br></p>
 
 
 
-- Na main, definir um genero de pausa até que se dê ordem de término ao Metodo que se encontra a correr 
+<p>- Na main, definir um genero de pausa até que se dê ordem de término ao Metodo que se encontra a correr 
     Para isso vai-se usar   
 
 
