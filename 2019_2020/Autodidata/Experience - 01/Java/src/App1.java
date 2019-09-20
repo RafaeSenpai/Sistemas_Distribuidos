@@ -28,7 +28,3 @@ public class App1 {
 
     }
 }
-
-
-
-sincronização basica de threads
