@@ -1,15 +1,17 @@
+import java.util.*;
 class Processor extends Thread { /**A thread Processor vai correr o codigo run()*/
 
     private volatile boolean running = true;
-
+    private int count;
     public void run() {
+        count = 0;
         while(running){
-            System.out.println("Hello");
-
+            System.out.println("Hello "+ count);
+            count++;
             try {
                 Thread.sleep(100);
             }
-            catch (InteruptedException e) {
+            catch (InterruptedException e) {
                 e.printStackTrace();
             }
         }
@@ -32,5 +34,7 @@ public class App {
         scanner.nextLine();
 
         proc.shutdown();
+        
+        System.out.println("Thread desligada!\n");
     }
 }
