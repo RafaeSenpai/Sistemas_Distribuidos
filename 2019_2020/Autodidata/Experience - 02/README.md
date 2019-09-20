@@ -1,6 +1,6 @@
 <img src="../READMEs_sorces/Multithreading-Java.png" alt="Sistemas Distribuidos - Rafael Alves" align="center"/>
 
-<h1 align="center">Part 2<br>Basic Thread Synchronization.mp4</h1>
+<h1 align="center">Part 2<br>Basic Thread Synchronization</h1>
 <br>
 <h2>Sincronização das Threads em java</h2>
 
