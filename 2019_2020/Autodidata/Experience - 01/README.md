@@ -15,7 +15,7 @@
 <br>
 <br>
 <p><strong>App3</strong> - 3º metodo para iniciar threads, com uma class anonima<br>
-                           <em>Obs: uso de threads mas sem tratamento das mesmas;</p></em>
+                           <em>&emsp;Obs: uso de threads mas sem tratamento das mesmas;</p></em>
        
 
 
