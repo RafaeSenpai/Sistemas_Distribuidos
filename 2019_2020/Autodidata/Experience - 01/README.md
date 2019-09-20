@@ -4,14 +4,18 @@
 <br>
 <h2>Iniciando threads em java</h2>
 
-<p><strong>App1</strong> - Exemplo em que ambos os loops estão a correr ao mesmo tempo em threads diferentes, mas apresentando valores repetidos.<br>
-       Obs: uso de threads mas sem tratamento das mesmas;</p>
-       
-<p><strong>App2</strong> - Exemplo em que ambos os loops estão a correr ao mesmo tempo em threads diferentes, mas apresentando valores repetidos.<br>
-       Obs: uso de threads mas sem tratamento das mesmas;</p>
-
-<p><strong>App3</strong> - Nova forma de correr uma thread com uma class anonima<br>
-       Obs: uso de threads mas sem tratamento das mesmas;</p>
+<p><strong>App1</strong> - 1º metodo para iniciar threads.<br>
+                           Exemplo em que ambos os loops estão a correr ao mesmo tempo em threads diferentes, mas apresentando valores repetidos.<br>
+                           Obs: uso de threads mas sem tratamento das mesmas;</p>
+<br>
+<br>
+<p><strong>App2</strong> - 2º metodo para iniciar threads.<br>
+                           Exemplo em que ambos os loops estão a correr ao mesmo tempo em threads diferentes, mas apresentando valores repetidos.<br>
+                           Obs: uso de threads mas sem tratamento das mesmas;</p>
+<br>
+<br>
+<p><strong>App3</strong> - 3º metodo para iniciar threads, com uma class anonima<br>
+                           Obs: uso de threads mas sem tratamento das mesmas;</p>
        
 
 
