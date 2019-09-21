@@ -31,10 +31,4 @@ Desta forma temos a garantia de que a variavel que está em constante verificaç
         . private volatile boolean running = true;
 
     
-
-    Quere-se alguma forma de parar até chamar-mos o metodo de paragem (public void Shutdown) darmos ordem de paragem ao metodo que se encontra a correr
-
-
-
-
-TRata-se de uma forma de que pode ser usada para se quisermos terminar uma thread ou multiplas threads corretamente a partir de outra thread 
+Trata-se de uma forma de que pode ser usada para se quisermos terminar uma thread ou multiplas threads corretamente a partir de outra thread 
