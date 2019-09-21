@@ -20,7 +20,7 @@ Desta forma temos a garantia de que a variavel que está em constante verificaç
 
     - Quere-se alguma forma de parar até chamar-mos o metodo de paragem (public void Shutdown) darmos ordem de paragem ao metodo que se encontra a correr
     - Na main, definir um genero de pausa até que se dê ordem de término ao Metodo que se encontra a correr para isso vai-se usar   
-
+```javascript
         . main(String[] args)
         . proc1.start()
         . class Processor extends Thread { ...
@@ -29,6 +29,6 @@ Desta forma temos a garantia de que a variavel que está em constante verificaç
         . running
         . volatile
         . private volatile boolean running = true;
-
-    
+```
+   
 Trata-se de uma forma de que pode ser usada para se quisermos terminar uma thread ou multiplas threads corretamente a partir de outra thread 
