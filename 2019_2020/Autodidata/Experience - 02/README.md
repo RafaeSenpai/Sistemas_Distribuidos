@@ -23,6 +23,10 @@ Desta forma temos a garantia de que a variavel que está em constante verificaç
     Para isso vai-se usar   
 
 
+    . cenas()
+    . cenas2()
+
+    Ouito 
 
     Quer alguma maneira de parar até chamar-mos o metodo de paragem (public void Shutdown) darmos ordem de paragem ao metodo que se encontra a correr
 
