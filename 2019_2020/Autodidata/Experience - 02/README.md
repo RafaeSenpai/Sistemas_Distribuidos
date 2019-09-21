@@ -18,10 +18,8 @@ Desta forma temos a garantia de que a variavel que está em constante verificaç
 <p>- Se quisermos alterar uma variavel noutra thread teremos que usar <em>volatile</em><br></p>
 
 
-
-<p>- Na main, definir um genero de pausa até que se dê ordem de término ao Metodo que se encontra a correr 
-    Para isso vai-se usar   
-
+    - Quere-se alguma forma de parar até chamar-mos o metodo de paragem (public void Shutdown) darmos ordem de paragem ao metodo que se encontra a correr
+    - Na main, definir um genero de pausa até que se dê ordem de término ao Metodo que se encontra a correr para isso vai-se usar   
 
         . main(String[] args)
         . proc1.start()
@@ -32,7 +30,7 @@ Desta forma temos a garantia de que a variavel que está em constante verificaç
         . volatile
         . private volatile boolean running = true;
 
-        
+    
 
     Quere-se alguma forma de parar até chamar-mos o metodo de paragem (public void Shutdown) darmos ordem de paragem ao metodo que se encontra a correr
 
