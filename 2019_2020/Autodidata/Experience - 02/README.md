@@ -7,6 +7,7 @@
 <p>- Como partilhar a mesma informação entre threads diferentes<br></p>
 <p>- Como terminar um processo corretamente uma thread<br></p>
 <p>- Podemos considerar a existência duas threads neste codigo em que a <em>main(String[] args)</em> é uma thread e que a mesma quando corre a linha de codigo: <br></p>
+
 ```javascript
     proc1.start()
 ```
