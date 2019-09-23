@@ -13,18 +13,18 @@ Incremento é mais que um passo:
 ```javascript
 	count = count + 1;
 ```
-	obs.: 
-        > Primeiro é inicializada a variavel count;
-	    > É criada uma copia dessa variavel e incrmentada 1 unidade á mesma;
-	    > O resultado obtido é guardado na variavel count original.
+obs.: 
+> Primeiro é inicializada a variavel count;
+> É criada uma copia dessa variavel e incrmentada 1 unidade á mesma;
+> O resultado obtido é guardado na variavel count original.
 
 
 Incremento em um passo:
 ```javascript
 	count++;
 ```
-	obs.: 
-    > É inicializada a variavel incrementando uma unidade ao seu valor.
+obs.: 
+> É inicializada a variavel incrementando uma unidade ao seu valor.
 
 
 
@@ -41,39 +41,13 @@ Incremento em um passo:
 
 <p>- O que o synchronized faz é que cada objeto em java possui um bloqueador, bloqueador esse que desempenha o seguinte papel...<br>
 
-        ...Quando uma thread tenta aceder a algo que esteja a ser usado 
-        por outra thread o syncronize coloca a thread que está a querer 
-        aceder em espera enquanto a thread que já se encontra a trabalhar 
-        não terminar o seu trabalho. Quando a thread, que está a aceder 
-        a um recurso finaliza as suas operações sobre esse mesmo recurso, 
-        este fica disponivel para outra thread e quem é responsavel por 
-        esse controlo de acesso a recursos de maneira ordeira é o 
-                        <strong>synchronized</strong>.
+                ...Quando uma thread tenta aceder a algo que esteja a ser usado 
+                por outra thread o syncronize coloca a thread que está a querer 
+                aceder em espera enquanto a thread que já se encontra a trabalhar 
+                não terminar o seu trabalho. Quando a thread, que está a aceder 
+                a um recurso finaliza as suas operações sobre esse mesmo recurso, 
+                este fica disponivel para outra thread e quem é responsavel por 
+                esse controlo de acesso a recursos de maneira ordeira é o 
+                                synchronized.
 
 <p>Graças ao papel desempenhado pelo synchronized não é necessário usar-se a flag volatile nas variaveis acedidas por varias threads, pois com o synchronized os recursos são acedidos apenas "uma vez de cada vez", logo não haverá problemas de caching a ser tratados</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>- Como partilhar a mesma informação entre threads diferentes<br></p>
-<p>- Como terminar um processo corretamente uma thread<br></p>
-<p>- Podemos considerar a existência duas threads neste codigo em que a <strong><em>main(String[] args)</em></strong> é uma thread e que a mesma quando corre a linha de codigo: <br></p>
-
-```javascript
-    proc1.start()
-```
-<br>
