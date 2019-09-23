@@ -14,8 +14,8 @@ Incremento é mais que um passo:
 	count = count + 1;
 ```
 obs.: 
-> Primeiro é inicializada a variavel count;
-> É criada uma copia dessa variavel e incrmentada 1 unidade á mesma;
+> Primeiro é inicializada a variavel count;<br>
+> É criada uma copia dessa variavel e incrmentada 1 unidade á mesma;<br>
 > O resultado obtido é guardado na variavel count original.
 
 
