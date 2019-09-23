@@ -14,11 +14,11 @@ Incremento é mais que um passo:
 	count = count + 1;
 ```
 obs.: 
-> Primeiro é inicializada a variavel count;<br>
-> É criada uma copia dessa variavel e incrmentada 1 unidade á mesma;<br>
-> O resultado obtido é guardado na variavel count original.
+> 1º Primeiro é inicializada a variavel count;<br>
+> 2º É criada uma copia dessa variavel e incrmentada 1 unidade á mesma;<br>
+> 3º O resultado obtido é guardado na variavel count original.
 
-
+<br>
 Incremento em um passo:
 ```javascript
 	count++;
@@ -29,7 +29,7 @@ obs.:
 
 
 
-<p>- Neste caso o <strong><em>volatile</em></strong> não irá resolver a situação porque o problema não está relacionado com questões de <em>caching</em>, mas sim com a sincronização das threads que estão a executar o trabalho.</p>
+<br><br><p>- Neste caso o <strong><em>volatile</em></strong> não irá resolver a situação porque o problema não está relacionado com questões de <em>caching</em>, mas sim com a sincronização das threads que estão a executar o trabalho.</p>
 
 <p>- A solução está em criar o metodo que queremos que as threads executem, mas atribuindo a esse mesmo metodo a flag synchronized.</p>
 
