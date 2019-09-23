@@ -41,9 +41,14 @@ Incremento em um passo:
 
 <p>- O que o synchronized faz é que cada objeto em java possui um bloqueador, bloqueador esse que desempenha o seguinte papel...<br>
 
-        ...Quando uma thread tenta aceder a algo que esteja a ser usado por outra thread o syncronize coloca a thread que está a 
-        querer aceder em espera enquanto a thread que já se encontra a trabalhar não terminar o seu trabalho. Quando a thread, 
-        que está a aceder a um recurso finaliza as suas operações sobre esse mesmo recurso, este fica disponivel para outra thread e quem é responsavel por esse controlo de acesso a recursos de maneira ordeira é o <strong>synchronized</strong>.
+        ...Quando uma thread tenta aceder a algo que esteja a ser usado 
+        por outra thread o syncronize coloca a thread que está a querer 
+        aceder em espera enquanto a thread que já se encontra a trabalhar 
+        não terminar o seu trabalho. Quando a thread, que está a aceder 
+        a um recurso finaliza as suas operações sobre esse mesmo recurso, 
+        este fica disponivel para outra thread e quem é responsavel por 
+        esse controlo de acesso a recursos de maneira ordeira é o 
+                        <strong>synchronized</strong>.
 
 <p>Graças ao papel desempenhado pelo synchronized não é necessário usar-se a flag volatile nas variaveis acedidas por varias threads, pois com o synchronized os recursos são acedidos apenas "uma vez de cada vez", logo não haverá problemas de caching a ser tratados</p>
 
