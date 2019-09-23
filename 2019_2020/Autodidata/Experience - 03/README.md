@@ -50,4 +50,4 @@ obs.:
                 esse controlo de acesso a recursos de maneira ordeira é o 
                                 synchronized.
 
-<p>Graças ao papel desempenhado pelo synchronized não é necessário usar-se a flag volatile nas variaveis acedidas por varias threads, pois com o synchronized os recursos são acedidos apenas "uma vez de cada vez", logo não haverá problemas de caching a ser tratados</p>
+<p>Graças ao papel desempenhado pelo synchronized não é necessário usar-se a flag <em>volatile</em> nas variaveis acedidas por varias threads, pois com o synchronized, os recursos são acedidos apenas por uma thread de cada vez sem nenhuma intrusão por parte de outro agente externo , logo não haverá problemas de caching a ser tratados</p>
