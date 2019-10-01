@@ -1,16 +1,18 @@
+package ca.demo.cenas;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Worker{
+public class Worker {
 
     private Random random = new Random();
 
     private Object lock1 = new Object();
     private Object lock2 = new Object();
 
-    private List<Integer> list1 = new ArrayList<Integer>;
-    private List<Integer> list2 = new ArrayList<Integer>;
+    private List<Integer> list1 = new ArrayList<Integer>();
+    private List<Integer> list2 = new ArrayList<Integer>();
 
     public void stageOne(){
         synchronized (lock1){
@@ -45,14 +47,35 @@ public class Worker{
         }
     }
 
-    public static void main() {
+    public void main() {
         System.out.println("Starting ...");
 
-        long start = System.currentTimeMilis();
+        long start = System.currentTimeMillis();
 
-        process();
+        Thread t1 = new Thread(new Runnable() {
+            public void run(){
+                process();
+            }
+        });
 
-        long end = System.currentTimeMilis();
+
+        Thread t2 = new Thread(new Runnable() {
+            public void run(){
+                process();
+            }
+        });
+
+        t1.start();
+        t2.start();
+
+        try {
+            t1.join();
+            t2.join();
+        }catch (InterruptedException e){
+            e.printStackTrace();
+        }
+
+        long end = System.currentTimeMillis();
 
         System.out.println("Duração: " + (end-start));
         System.out.println("Dimensões:\nList1: " + list1.size() + "\nList2: " + list2.size());
