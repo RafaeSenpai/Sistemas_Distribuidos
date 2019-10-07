@@ -6,11 +6,11 @@ import java.util.Scanner;
  *
  * Subentende-se que se deve criar um qualquer numero (>1) de threads, neste caso serão criadas 3 threads, para gerarem o resultado pretendido
  * */
-public class Exe2Slide1_VERCAO2 implements Runnable{
+public class Exe2Slide1_VERSAO2 implements Runnable{
     private int contador=1;
     int valMax;
 
-    Exe2Slide1_VERCAO2(int valor){
+    Exe2Slide1_VERSAO2(int valor){
         valMax=valor;
     }
 
@@ -32,9 +32,9 @@ public class Exe2Slide1_VERCAO2 implements Runnable{
         valor = sc.nextInt();
 
 
-        Exe2Slide1_VERCAO2 instancia_1 = new Exe2Slide1_VERCAO2(valor);
-        Exe2Slide1_VERCAO2 instancia_2 = new Exe2Slide1_VERCAO2(valor);
-        Exe2Slide1_VERCAO2 instancia_3 = new Exe2Slide1_VERCAO2(valor);
+        Exe2Slide1_VERSAO2 instancia_1 = new Exe2Slide1_VERSAO2(valor);
+        Exe2Slide1_VERSAO2 instancia_2 = new Exe2Slide1_VERSAO2(valor);
+        Exe2Slide1_VERSAO2 instancia_3 = new Exe2Slide1_VERSAO2(valor);
 
 
         Thread fioExecucao_1 = new Thread(instancia_1);

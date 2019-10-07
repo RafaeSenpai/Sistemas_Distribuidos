@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * Subentende-se que se deve criar um qualquer numero (>1) de threads, neste caso serão criadas 3 threads, para gerarem o resultado pretendido
  * */
-public class Exe2Slide1_VERCAO1 implements Runnable{
+public class Exe2Slide1_VERSAO1 implements Runnable{
     private int max;
 
 
@@ -23,7 +23,7 @@ public class Exe2Slide1_VERCAO1 implements Runnable{
      *   Este metodo é respondavel por receber o valor dado pelo utilizador e atribuir esse mesmo valor a
      *   uma variavel "protegida", sem assim comprometer o encapsolamento
      */
-    Exe2Slide1_VERCAO1(int valor){
+    Exe2Slide1_VERSAO1(int valor){
         max=valor;
     }
 
@@ -45,9 +45,9 @@ public class Exe2Slide1_VERCAO1 implements Runnable{
         valor = sc.nextInt();
 
 
-        Exe2Slide1_VERCAO1 instancia_1 = new Exe2Slide1_VERCAO1(valor);
-        Exe2Slide1_VERCAO1 instancia_2 = new Exe2Slide1_VERCAO1(valor);
-        Exe2Slide1_VERCAO1 instancia_3 = new Exe2Slide1_VERCAO1(valor);
+        Exe2Slide1_VERSAO1 instancia_1 = new Exe2Slide1_VERSAO1(valor);
+        Exe2Slide1_VERSAO1 instancia_2 = new Exe2Slide1_VERSAO1(valor);
+        Exe2Slide1_VERSAO1 instancia_3 = new Exe2Slide1_VERSAO1(valor);
 
 
         Thread fioExecucao_1 = new Thread(instancia_1);
