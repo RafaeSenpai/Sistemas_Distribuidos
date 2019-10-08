@@ -8,7 +8,7 @@ import java.util.Scanner;
 * */
 
 public class Exe1Slide1_V2 implements Runnable{
-private int max;//<<<--- NÃO ESQUECER DE PASSAR ESTA VARIAVEL PARA PRIVATE
+private int max;
 
     /*
     *   Este metodo é respondavel por receber o valor dado pelo utilizador e atribuir esse mesmo valor a
@@ -26,7 +26,7 @@ private int max;//<<<--- NÃO ESQUECER DE PASSAR ESTA VARIAVEL PARA PRIVATE
     }
 
     public static void main(String[] args) {
-        int valor;//<<<--- NÃO ESQUECER DE PASSAR ESTA VARIAVEL PARA PRIVATE
+        int valor;
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Até que valor quer que cada thread apresente os numeros?");

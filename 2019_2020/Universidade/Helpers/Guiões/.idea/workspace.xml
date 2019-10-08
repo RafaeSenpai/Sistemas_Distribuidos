@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7124b047-74d6-4871-8da1-f3e1437fb90f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Guioes/Guiao 1/G1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Guioes/Guiao 1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Guioes/Guiao 1/src/exe1g1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Guioes/exe2g1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Guioes/exe2g1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Guioes/exe2g1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Guioes/exe2g1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Guioes/exe2g1/exe2g1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Guioes/untitled/exe2g1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios&amp;Dicas do Slides/Exe3Slide1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/preExercicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiões.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Guiões.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/Aquecimento/G1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/Aquecimento/out/production/G1/Aquecimento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/Aquecimento/src/Aquecimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/LockCounter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/out/production/LockCounter/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/out/production/LockCounter/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/out/production/LockCounter/ThreadWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/LockCounter/src/ThreadWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex1/G11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex1/out/production/G11/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex1/out/production/G11/ThreadWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex1/src/ThreadWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/ex2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/out/production/ex2/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/out/production/ex2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/out/production/ex2/ThreadWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/src/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/src/ThreadWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2/src/ThreadWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/ex2v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/out/production/ex2v2/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/out/production/ex2v2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/out/production/ex2v2/ThreadWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/ex2v2/src/ThreadWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G1/guiao-01.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/G2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/out/production/G2/Banco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/out/production/G2/Cliente1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/out/production/G2/Cliente2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/out/production/G2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/src/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/src/Cliente1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/src/Cliente2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/G2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/ex2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/out/production/ex2/Banco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/out/production/ex2/Cliente1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/out/production/ex2/Cliente2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/out/production/ex2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/src/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/src/Cliente1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/src/Cliente2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guiões/ex2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/Aquecimento/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G1/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G1/._guiao-01.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G1/ex1/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G1/ex1/src/._Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G1/ex1/src/._ThreadWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G1/ex2/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G1/ex2/src/._Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G2/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G2/src/._Cliente1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/Guiões/G2/src/._Cliente2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios&amp;Dicas do Slides/Exe1Slide1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios&amp;Dicas do Slides/Exe1Slide1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios&amp;Dicas do Slides/Exe1Slide1_V2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios&amp;Dicas do Slides/Exe1Slide1_V2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios&amp;Dicas do Slides/Exe3Slide1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios&amp;Dicas do Slides/Exe3Slide1.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1RsW97WaRRH63Fa6bCofk5LfQgM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7124b047-74d6-4871-8da1-f3e1437fb90f" name="Default Changelist" comment="" />
+      <created>1570456129864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570456129864</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
