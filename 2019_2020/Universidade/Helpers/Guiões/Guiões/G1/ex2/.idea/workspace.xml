@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42c6a292-dd4c-4e30-b6dd-2f11a402aadf" name="Default Changelist" comment="" />
+    <list default="true" id="42c6a292-dd4c-4e30-b6dd-2f11a402aadf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/Exe 2A - Guiao 1 - SD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/out/production/Exe 2A - Guiao 1 - SD/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/out/production/Exe 2A - Guiao 1 - SD/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/out/production/Exe 2A - Guiao 1 - SD/ThreadOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/src/ThreadOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex2/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex2/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ex2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ex2/Main.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +34,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
   <component name="ProjectId" id="1R5nTx3C3HgmMp53nplHUt4klZn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -54,5 +80,16 @@
       <updated>1568965835204</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

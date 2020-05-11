@@ -40,11 +40,11 @@ public class Conta {
 
 
     /**Contrutor parametrizado*/
-    public Conta(String data, String nome, float valor, ArrayList<Movimento> list, int id){
+    public Conta(String data, String nome, float valor, int id){
         this.data_CriacaoConta = data;
         this.titular = nome;
         this.saldo = valor;
-        this.lstMovimentos = list; /* <<<<<---- fazer aqui um metodo de colone da lista de input para lstMovimentos*/
+        this.lstMovimentos = new ArrayList<>(); /* <<<<<---- fazer aqui um metodo de colone da lista de input para lstMovimentos*/
         this.numConta = id;
     }
 
@@ -92,6 +92,55 @@ public class Conta {
 
     public List<Movimento> getLstMovimentos(){
         return this.lstMovimentos;
+    }
+
+
+
+    /**Responsavel por edentificar o tipo de movimento feito pelo proprio titular, adiciona-lo á lista de movimentos da conta e atualizar o saldo da mesma sempre que possivel*/
+    public void makeMovimento(float valor, String tipo,String autor) {
+
+        if (tipo.equals("Debito") && this.saldo-valor>=0) {
+            Movimento newMov = new Movimento();
+            newMov.setTipoMovimento("Debito");
+            newMov.setAutor(autor);
+            newMov.setMontante(valor);
+            this.lstMovimentos.add(newMov);
+            this.saldo -= valor;
+
+        }else if(tipo.equals("Debito/Transferencia") && this.saldo-valor>=0){
+            Movimento newMov = new Movimento();
+            newMov.setTipoMovimento("Debito/Transferencia");
+            newMov.setAutor(autor);
+            newMov.setMontante(valor);
+            this.lstMovimentos.add(newMov);
+            this.saldo -= valor;
+
+        } else if(tipo.equals("Credito")){
+            Movimento newMov = new Movimento();
+            newMov.setTipoMovimento("Credito");
+            newMov.setAutor(autor);
+            newMov.setMontante(valor);
+            this.lstMovimentos.add(newMov);
+            this.saldo += valor;
+
+        }else if(tipo.equals("Credito/Transferencia")) {
+            Movimento newMov = new Movimento();
+            newMov.setTipoMovimento("Credito/Transferencia");
+            newMov.setAutor(autor);
+            newMov.setMontante(valor);
+            this.lstMovimentos.add(newMov);
+            this.saldo += valor;
+
+        }else if(tipo.equals("Val. Abertura")){
+                Movimento newMov = new Movimento();
+                newMov.setTipoMovimento("Val. Abertura");
+                newMov.setAutor(autor);
+                newMov.setMontante(valor);
+                this.lstMovimentos.add(newMov);
+                this.saldo += valor;
+        }else{
+            System.out.println("Saldo insuficiente!");
+        }
     }
 
 

@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -15,23 +17,22 @@ public class Main {
         valMax = sc.nextInt();
 
 
-       Thread[] arrayThreads = new Thread[numThreads];
+        Thread[] arrayThreads = new Thread[numThreads];
 
-       for(i=0; i<numThreads; i++){
-        arrayThreads[i] = new Thread(new Counter(valMax));
-       }
+        for(i=0; i<numThreads; i++){
+            arrayThreads[i] = new Thread(new Counter(valMax));
+        }
 
         for(i=0; i<numThreads; i++){
             arrayThreads[i].start();
         }
 
-        for(i=0; i<numThreads; i++){
+        for(i=0; i<numThreads; i++) {
             try {
                 arrayThreads[i].join();
-            }catch(InterruptedException ie){
+            } catch (InterruptedException ie) {
                 System.out.println("Erro!");
             }
         }
-
     }
 }

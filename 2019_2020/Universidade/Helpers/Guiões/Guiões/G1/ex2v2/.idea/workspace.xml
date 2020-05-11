@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a458967-455a-434c-81de-235289f52861" name="Default Changelist" comment="" />
+    <list default="true" id="6a458967-455a-434c-81de-235289f52861" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/Exe 2A - Guiao 1 - SD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/out/production/Exe 2A - Guiao 1 - SD/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/out/production/Exe 2A - Guiao 1 - SD/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/out/production/Exe 2A - Guiao 1 - SD/ThreadOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão A/src/ThreadOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão B/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão B/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão B/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão B/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão B/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão B/Versão B.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão B/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão B/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 2/Versão B/src/ThreadOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 1/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 1/Exercicio 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 1/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 1/src/ThreadOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 2/Exercicio 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 2/src/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 2/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guião 2/Resolucoes/Exercicios - Guião/Exercicio 2/src/Movimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Guioes - Práticas/Guiao 1/Resolucoes/Exercicios - Guião - V2/Exercicio 1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2/out/production/ex2/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/out/production/ex2/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2/out/production/ex2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/out/production/ex2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +62,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
   <component name="ProjectId" id="1R5tElbrPTGZnPzn3oh4wXRK8co" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -54,5 +108,18 @@
       <updated>1568968674879</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

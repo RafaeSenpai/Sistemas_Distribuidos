@@ -90,30 +90,36 @@ public class Movimento {
     }
 
 
-
+    /**Getters*/
     public String getDatMovimento(){
         return this.data_mov;
     }
-
-
 
     public float getValorMovimento(){
         return this.montante;
     }
 
-
-
     public String getTipoMovimento(){
         return this.tipoMovimento;
     }
-
-
 
     public String getAutorMovimento(){
         return this.autor;
     }
 
 
+    /**Setters*/
+    public void setMontante(float valor){
+        this.montante = valor;
+    }
+
+    public void setTipoMovimento(String tipo){
+        this.tipoMovimento = tipo;
+    }
+
+    public void setAutor(String nome){
+        this.autor = nome;
+    }
 
     public boolean equals(Object mv) {
         /*Caso se trate de um objecto que aponta para o mesmo endereço*/
